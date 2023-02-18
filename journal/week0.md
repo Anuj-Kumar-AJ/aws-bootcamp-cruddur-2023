@@ -77,7 +77,7 @@
 
 # Cruddur  Conceptual Diagram [Link](./../_docs/assets/CruddurConceptualDiagram.jpeg)
 
-# Cruddur Architecture Diagram [Link](./../_docs/assets/CruddurArchitectureDiagram.png)
+# Cruddur Architecture Diagram [Link](./../_docs/assets/CruddurArchitectureDiagram.png)  and [lucid link](https://lucid.app/lucidchart/e542fe7f-a062-4a8f-b91a-c42eed3718ae/edit?view_items=TPlyQdZNd31d&invitationId=inv_1fd39c8d-9cea-458b-9b5d-3945e0d22ee6)
 
 
 
